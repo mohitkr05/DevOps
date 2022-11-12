@@ -6,11 +6,24 @@ Available in English and Hindi (Please note these are not translations)
 
 ## Chapters
 
-1. [Building Software & Waterfall Model](ch_01.md)
-2. [Agile](ch_02.md)
-3. [Types of Agile frameworks](ch_03.md)
-4. [DevOps](ch_04.md)
-5. 
+### DevOps
+
+1. [Building Software & Waterfall Model](DevOps/ch_01.md)
+2. [Agile](DevOps/ch_02.md)
+3. [Types of Agile frameworks](DevOps/ch_03.md)
+4. [DevOps](DevOps/ch_04.md)
+5. [12 Factor app](DevOps/ch_05.md)
+
+### Linux
+
+1. [Why learn linux](Linux/ch_01.md)
+2. [Understanding the Shell](Linux/ch_02.md)
+3. [Using files and directories](Linux/ch_01.md)
+
+### Understanding Virtualization
+
+1. [What is virtualization](Virtualization/ch_01.md)
+2. [Installing Virtualbox](Virtualization/ch_02.md)
 
 ## Discussion
 

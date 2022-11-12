@@ -1,6 +1,5 @@
 site_name: DevOps Tutorial
-site_url: https://github.com/mohitkr05/DevOps/docs/index.md
+site_url: https://mohitkr05.github.io/DevOps/
 nav:
   - Home: index.md
-  - About: about.md 
-  - chapters: chapters.md
+  - Docs: docs.md

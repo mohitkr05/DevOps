@@ -1,5 +1,8 @@
 site_name: DevOps Tutorial
 site_url: https://mohitkr05.github.io/DevOps/
+theme:
+  name: null
+  custom_dir: 'cinder'
 nav:
   - Home: index.md
   - Docs: docs.md
